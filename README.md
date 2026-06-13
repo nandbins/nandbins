@@ -1,16 +1,28 @@
-## Hi there 👋
+# Muhammad Rauf Butt
 
-<!--
-**nandbins/nandbins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Assistant Professor
+**Department of Computer Science**  
+**Office Number:** S-214  
+**Extension Number:** 000  
 
-Here are some ideas to get you started:
+## Brief Profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Muhammad Rauf Butt is an Assistant Professor in the Department of Computer Science with more than 30 years of combined industrial and academic experience. A graduate of UET Lahore, he has worked on numerous industrial projects with organizations such as Star Solutionz and Gates Technologies, gaining extensive experience in industrial automation and real-time control systems.
+
+Throughout his academic career, he has taught a variety of courses in Computer Science, Information Technology, and Engineering disciplines. He previously served as Head of the Department of Electrical Engineering at the University of South Asia and as Academic Head at NCUK Lahore, where he coordinated academic activities across multiple departments. His work focuses on bridging theoretical concepts with practical applications in modern computing and engineering systems.
+
+## Education
+
+- **MS Computer Engineering** — LUMS
+- **MS Mechatronics Engineering** — UET Lahore
+- **BS Mechanical Engineering** — UET Lahore
+
+## Research Interests
+
+- System Programming
+- Embedded Systems
+- Cyber Security
+- Operating System
+- Industrial Automation
+- Real-Time Control Systems
+- Smart and Connected Systems
