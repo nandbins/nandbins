@@ -1,9 +1,9 @@
 # Muhammad Rauf Butt
 
 ## Assistant Professor
-**Department of Computer Science**  
+**Department of Computer Science FCCU**  
 **Office Number:** S-214  
-**Extension Number:** 000  
+**Email:** raufbutt@fccollege.edu.pk 
 
 ## Brief Profile
 
