@@ -22,7 +22,5 @@ Throughout his academic career, he has taught a variety of courses in Computer S
 - System Programming
 - Embedded Systems
 - Cyber Security
-- Operating System
-- Industrial Automation
-- Real-Time Control Systems
-- Smart and Connected Systems
+- Industrial Automation & Real-Time Control Systems
+- Agentic AI
